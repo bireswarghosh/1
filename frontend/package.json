@@ -147,13 +147,8 @@
   
   },
   
-  "proxy": "http://bireswar-ghosh-portfolio-backend-xw1f.onrender.com/.well-known/acme-challenge/*",
-  
-  
-  "devDependencies": {
-  
-    
-  "gh-pages": "^6.1.0"
+  "proxy": "https://bireswar-ghosh-portfolio-backend-xw1f.onrender.com"
+ 
   
   }
 }
